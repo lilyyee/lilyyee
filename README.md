@@ -1,7 +1,7 @@
-👋 Hi, I’m Lily!
-🌱 Front End Development is my jam!
-👀 Skilled at HTML/CSS and responsive websites.
-💞️ I’m interested in fun projects, especially in health & wellness, food, and travel.
+- 👋 Hi, I’m Lily!
+- 🌱 Front End Development is my jam!
+- 👀 Skilled at HTML/CSS and responsive websites.
+- 💞️ I’m interested in fun projects, especially in health & wellness, food, and travel.
 
 <!---
 - 👋 Hi, I’m @lilyyee
