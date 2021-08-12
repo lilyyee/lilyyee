@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lily!
-- 🌱 Background in Nursing - Seeking opportunities to connect health with tech.
-- 👀 Skilled at HTML/CSS and responsive websites.
+- 🌱 Background in Nursing - Passionate about promoting wellness with tech.
+- 👀 Skilled at HTML/CSS, JavaScript, and responsive website development. 
 - 💞️ Interests include health & wellness, food, and travel.
 
 <!---
