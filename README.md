@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lily!
-- 🌱 Background in Nursing - Passionate about promoting wellness with tech.
+- 🌱 I'm a Web Developer with a strong background in Registered Nursing.
 - 👀 Skilled at HTML/CSS, JavaScript, React, and responsive web design. 
-- 💞️ Interests include health & wellness, food, and travel.
+- 💞️ Interests include health & wellness, food, and travel. Passionate about promoting wellness with tech.
 
 <!---
 - 👋 Hi, I’m @lilyyee
