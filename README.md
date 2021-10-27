@@ -2,7 +2,7 @@
 - ⭐️ I'm a Web Developer with an extensive background in healthcare.
 - 👩🏻‍💻 Developer Skills: HTML, CSS, JavaScript, React, Responsive Web Development, Flexbox, FTP, Web Hosting, APIs, WordPress
 - 🌱 I work with a mobile-first approach to create clean, responsive websites that look great on any device.
-- 💞️ I love to build user-friendly sites with great design.   
+ 
 
 
 <!---
