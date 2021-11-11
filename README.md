@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Lily!
-- ⭐️ I'm a Web Developer with an extensive background in healthcare.
+- ⭐️ I'm a Front End Developer with an extensive background in healthcare.
+- 🌱 On a journey from the healthcare world to the tech world.
 - 👩🏻‍💻 Developer Skills: HTML, CSS, JavaScript, React, Responsive Web Development, Flexbox, FTP, Web Hosting, APIs, WordPress
-- 🌱 I work with a mobile-first approach to create clean, responsive websites that look great on any device.
-- 👀 Looking for opportunities to collaborate on interesting projects!
+- 👀 Looking for opportunities to collaborate on healthcare projects!
  
 
 
